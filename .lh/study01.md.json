@@ -1,0 +1,18 @@
+{
+    "sourceFile": "study01.md",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 0,
+            "patches": [
+                {
+                    "date": 1672824623550,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                }
+            ],
+            "date": 1672824623550,
+            "name": "Commit-0",
+            "content": "## 前端入门和进阶学习笔记\r\n\r\n完成git配置和仓库搭建，熟悉git命令行  √\r\ngit status\r\ngit remote origin main\r\ngit pull origin main\r\ngit add .\r\ngit commit -m 'xx'\r\ngit push origin main\r\ngit rm <file>"
+        }
+    ]
+}
